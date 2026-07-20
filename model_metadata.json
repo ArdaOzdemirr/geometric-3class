@@ -1,0 +1,4 @@
+{
+  "framework": "sklearn",
+  "model_file": "model.joblib"
+}
